@@ -1,0 +1,24 @@
+{
+  "name": "dptable",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devWayne/dependencies-table.git"
+  },
+  "author": "Jarvan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devWayne/dependencies-table/issues"
+  },
+  "homepage": "https://github.com/devWayne/dependencies-table#readme",
+  "dependencies": {
+    "cli-table": "~0.3.1",
+    "colors": "~1.1.2",
+    "node-fetch": "~1.5.3"
+  }
+}

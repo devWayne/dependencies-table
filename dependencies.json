@@ -1,0 +1,4 @@
+{
+    "biz":["chaoshi-index","chaoshi-liangfan","chaoshi-history","chaoshi-daily-sale"],
+    "module":["mui/chaoshi-base","mui/pure-bottom"]
+}
